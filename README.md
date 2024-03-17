@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+The Next.js Dashboard for GitHub offers developers and teams vital repository insights, including metrics like stars and open issues, alongside real-time activity updates. 
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+It streamlines workflow with features like code analysis, collaboration insights, and customizable dashboards. 
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Integration with tools such as Slack and Jira enhances efficiency, while security insights maintain code integrity.
